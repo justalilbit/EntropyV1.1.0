@@ -1,0 +1,18 @@
+{
+  "helpMsg1": [
+    "`addrole`, `ban`, `clearwarns`, `kick`, `lockdown`, `mute`, `removerole`, `rename`, `say`, `softban`, `tempmute`, `timedlockdown`, `unban`, `votekick`, `warn`, `warnlevel`"
+    ],
+  "helpMsg3": [
+    "`8ball`, `cat`, `coinflip`, `copypasta`, `dadjokes`, `dog`, `f`, `hammer`, `lenny`, `man`, `owoify`, `randomfact`, `rich`, `rps`, `vote`, `wallpaper`, `yeet` "
+  ],
+  "helpMsg4": [
+    "`about`, `advice`, `bug`, `colorsearch`, `credits`, `ide`, `invite`, `ping`,`report`, `serverinfo`, `source`, `stats`, `suggest`, `timer`, `user`"
+  ],
+  "helpMsg5": [
+    "`avatar`, `awwnime`, `balance`, `cuddle`, `currency`, `feed`, `fight`, `gamble`, `hate`, `help`, `kiss`, `love`, `neko`, `nep`, `ngif`, `pat`, `pay`, `poke`, `shibe`, `slap`, `smug`, `spank`, `tickle`"
+  ],
+  "helpMsg7": [
+    "`blacklist`, `eval`, `exec`, `hackban`, `leave`, `reload`, `settings`"
+  ]
+}
+

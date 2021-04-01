@@ -1,0 +1,22 @@
+exports.run = (client, message) => {
+  var owner = "264563977005170688"
+  if(message.author.id !== owner) return message.reply("Disabled until I can find a suitable API ;-;")
+  let user = message.mentions.users.first();
+  if(message.mentions.users.size < 1) return message.reply('You must mention someone to punch them.')
+  if(user.id = message.author.id) return message.channel.send("https://tenor.com/view/why-huh-but-why-gif-13199396")
+  if(user.id === owner) return message.reply("You can't hurt him you baka.");
+  if(user.id === client.user.id) return message.channel.send(`**Punches ${user.username}**`)
+};
+
+exports.conf = {
+  enabled: true,
+  guildOnly: false,
+  aliases: [],
+  permLevel: 0
+};
+
+exports.help = {
+  name: 'punch',
+  description: 'Punches a user.',
+  usage: 'punch <user>'
+};

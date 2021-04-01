@@ -1,0 +1,52 @@
+{
+  "name": "egirl",
+  "version": "1.0.0",
+  "description": "E-girl, The official Bot for Entropy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "INDEX (Gregg)",
+  "license": "MIT",
+  "dependencies": {
+    "alexflipnote.js": "^1.2.4",
+    "axios": "^0.18.0",
+    "bench": "^0.3.6",
+    "canvas": "^2.6.1",
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "curlrequest": "^1.0.1",
+    "discord.js": "^12.3.1",
+    "google": "^2.1.0",
+    "http": "0.0.0",
+    "integer": "^3.0.1",
+    "kareem": "^2.3.1",
+    "kayn": "^0.10.2",
+    "moment": "^2.29.0",
+    "mongo": "^0.1.0",
+    "mongodb-core": "^3.2.7",
+    "mongoose": "^5.10.7",
+    "mongoose-long": "^0.3.2",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "node-ddg": "^2.2.3",
+    "node-fetch": "^2.6.1",
+    "node-opus": "^0.3.1",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "0.0.6",
+    "os-utils": "0.0.14",
+    "parse-ms": "^2.1.0",
+    "random-puppy": "^1.1.0",
+    "remove-markdown": "^0.3.0",
+    "request": "^2.88.0",
+    "return-deep-diff": "^0.3.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.1.0",
+    "urban": "^0.3.2"
+  },
+  "engines": {
+    "node": "12.16.0"
+  }
+}
